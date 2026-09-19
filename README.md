@@ -1,2 +1,2 @@
 # otbasic
-Classic small Basic
+owasikohu's tiny basic
